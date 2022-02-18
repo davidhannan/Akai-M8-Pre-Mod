@@ -24,3 +24,8 @@ Details of a pre-amp conversion for an Akai M8 amplifier
   <img src="https://user-images.githubusercontent.com/44103384/154606383-f689b754-d430-4d18-a299-120eca69acff.jpg" width="800">
   <img src="https://user-images.githubusercontent.com/44103384/154606387-0acae378-fcce-4b62-82cc-4c1a62440117.jpg" width="800">
   <img src="https://user-images.githubusercontent.com/44103384/154606398-0e7a0485-ccc1-4a95-9320-01611f2ddd93.jpg" width="800">
+
+
+  It sounds great! I plan on putting it inside a wooden enclosure sometime soon, I think it'll look really nice then. 
+  
+  You may have noticed that the amp in the picture is actually from the Akai (as noted on the VU meter). This is because I decided to swap out the right channel amp in the Akai machine with the right amp from the Roberts. The Roberts still had all the original paper in oil capacitors in it, and I wanted to see if I could tell the difference between the old caps that were still in the Roberts, and the new caps that I had put in the Akai. With headphones on, left ear listening to new caps, and right ear listening to old caps, I'd be lying to you if I said that I could tell a difference. At any rate, I left the Roberts amp in the Akai machine just for fun so I ended up doing the mods on the Akai amp that I took out of the machine.
