@@ -16,7 +16,8 @@ Details of a pre-amp conversion for an Akai M8 amplifier
   
   Fast forward to a few weeks ago (early February 2022), and I had been spending the majority of my spare time working on my modular synthesizer for the past year. My progress on that project had started to slow and I thought switching gears to a different project for a while might be good for me. I remembered that I still had the Roberts laying around and that I could do some mods to it's amplifiers. I tracked down the website that I remembered seeing that had all the details of the mods, and got to work.
 
-### <a href="https://lacinato.com/cm/audio/robertsmod">The Website</a>
+### <a href="https://lacinato.com/cm/audio/robertsmod">Mod Details Website</a>
+<a href="https://web.archive.org/web/20220101221320/http://lacinato.com/cm/audio/robertsmod">archive link just in case</a>
 
 
 ## The results:
