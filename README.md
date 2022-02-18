@@ -5,7 +5,7 @@ Details of a pre-amp conversion for an Akai M8 amplifier
 
   They were in pretty good condition, considering their age (made in 1966), but they definitely needed some work. At the time I had next to no experience working on electronics, no less high voltage vacuum tube circuitry, but I think that the large size of the components and the point-to-point circuitry made the work a little easier for a beginner. 
   
-###Some pictures
+### Some pictures
   <img src="https://user-images.githubusercontent.com/44103384/154604199-2d7cf352-388f-4b54-8fb3-8d07224f91db.jpg" width="400">
   <img src="https://user-images.githubusercontent.com/44103384/154602551-33ce6994-84bd-4d31-8048-8c56d63db404.jpg" width="400">
   <img src="https://user-images.githubusercontent.com/44103384/154603277-21cceb48-b97a-4a59-8755-e123f9a2152e.jpg" width="400">
