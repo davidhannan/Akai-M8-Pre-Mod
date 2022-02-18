@@ -14,4 +14,6 @@ Details of a pre-amp conversion for an Akai M8 amplifier
   
   I started work on the Akai machine first. I replaced all of the caps and the burnt out resistor. After doing so it was pretty much as good as new. I read that the amps are really nice and that they can be used by themselves if you put the machine into record mode, turn off the motor for the tape reels, and plug in an audio source to the line input, and so for the most part that is how I've been using the Akai for the past year or so, which left the Roberts 770x unused for all that time.
   
-  
+  Fast forward to a few weeks ago (early February 2022), and I had been spending the majority of my spare time working on my modular synthesizer for the past year. My progress on that project had started to slow and thought switching gears to a different project for a while might be good for me. I remembered that I still had the Roberts laying around and that I could do some mods to it's amplifiers. I tracked down the website that I remembered seeing that had all the details of the mods, and got to work.
+
+## <a href="https://lacinato.com/cm/audio/robertsmod#furtherimp">Website</a>
