@@ -26,6 +26,10 @@ Details of a pre-amp conversion for an Akai M8 amplifier
   <img src="https://user-images.githubusercontent.com/44103384/154606387-0acae378-fcce-4b62-82cc-4c1a62440117.jpg" width="800">
   <img src="https://user-images.githubusercontent.com/44103384/154606398-0e7a0485-ccc1-4a95-9320-01611f2ddd93.jpg" width="800">
   <img src="https://user-images.githubusercontent.com/44103384/154609060-b8159a07-42be-4245-9457-99fe2607004e.jpg" width="800">
+  
+  ### The Final Product:
+  
+  <img src="https://user-images.githubusercontent.com/44103384/162100821-5005cc09-28f9-4afe-b0c4-6d57f3b74a58.jpg" width="800">
 
 
   It sounds great! I added the optional gain control potentiometer for the 12AX7, but I didn't want to put another hole in the front panel, so I put it through the empty tube socket hole that the right channel amp has(red knob). I got the microphone transformer from an old Shure M68FCA mic mixer that I got off ebay awhile ago, I believe the transformers from this model are the same ones that were used in the M67. I plan on putting it inside a wooden enclosure sometime soon, I think it'll look really nice then. 
